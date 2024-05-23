@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fitness-Application",
+    "imageSrc": "projects/project.png",
+    "description": "The React Fitness Application, built with the MERN stack, helps users manage their fitness journey.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Jyothikrishna21/fitness-application"
+  },
+  {
+    "title": "Notes-Maker",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "MongoDb"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Jyothikrishna21/notes-maker"
+  },
+  {
+    "title": "Simons-Game",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "JAVASCRIPT"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Jyothikrishna21/simons-game"
+  }
+]
